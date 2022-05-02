@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 
     #my apps
     'profiles_api',
+    'ingredients'
 ]
 
 MIDDLEWARE = [
